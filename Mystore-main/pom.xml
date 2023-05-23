@@ -12,7 +12,7 @@
 	<groupId>com.lcwd.store</groupId>
 	<artifactId>MyStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>MyStore</name>
 	<description>This is store project for selling products</description>
